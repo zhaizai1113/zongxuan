@@ -1,0 +1,133 @@
+.title{
+	text-align: center;
+	width: 100%;
+	height: 1334px;
+	background-image: url(../img/homebg.png);
+	background-repeat: round;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	padding-top: 383px;
+	font-size: 40px;
+	font-family: "YouYuan";
+	color: #060902;
+	float: left;
+}
+.sybackground{
+	background-image: url(../img/shiyuanbg.png);
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	background-repeat: round;
+	width: 100%;
+	height: 1500px;
+}
+.jnbg{
+	background-image: url(../img/jiaonangbg.png);
+	background-repeat: round;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	width: 100%;
+	height: 1500px;
+}
+.xybg{
+	background-image: url(../img/xinyubg.png);
+	background-repeat: round;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	width: 100%;
+	height: 1500px;
+}
+.sybackbt , .jnbackbt , .xybackbt{
+	width: 177px;
+	height: 69px;
+	margin: 86px 0px 0px 56px;
+	font-family: "YouYuan";
+	font-size: 36px;
+	color: #060902;
+	padding: 10px 0px 0px 60px;
+	border: none;
+}
+.sybackbt{
+	background: url(../img/shiyuanback.png);
+}
+.jnbackbt{
+	background: url(../img/jiaonangback.png);
+}
+.xybackbt{
+	background: url(../img/xinyuback.png);
+}
+.sytitle{
+	margin: 70px 0px 0px 370px;
+	background: url(../img/shiyuantitle.png);
+	width: 200px;
+	height: 65px;
+	background-repeat: round;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+}
+.jntitle{
+	margin: 70px 0px 0px 330px;
+	background: url(../img/jiaonangtitle.png);
+	background-repeat: round;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	width: 273px;
+	height: 65px;
+}
+.xytitle{
+	margin: 70px 0px 0px 330px;
+	background: url(../img/xinyutitle.png);
+	background-repeat: round;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	width: 273px;
+	height: 65px;
+}
+.sytext , .jntext , .xytext{
+	line-height: 60px;
+	font-weight: 60;
+}
+.sytext{
+	width: 450px;
+	height: 450px;
+	font-family: "Microsoft YaHei";
+	font-size: 30px;
+	color: #060902;
+	margin: 160px 0px 182px 122px;
+}
+.jntext{
+	width: 360px;
+	height: 450px;
+	font-family: "Microsoft YaHei";
+	font-size: 30px;
+	color: #060902;
+	margin: 160px 0px 182px 122px;
+}
+.xytext{
+	width: 540px;
+	height: 583px;
+	font-family: "Microsoft YaHei";
+	font-size: 30px;
+	color: #060902;
+	margin: 160px 0px 182px 122px;
+}
+.syinbt , .jninbt , .xyinbt{
+	background-repeat: round;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	font-family: "YouYuan";
+	font-size: 50px;
+	color: #060902;
+	width: 234px;
+	height: 83px;
+	border: none;
+	margin-bottom: 181px;
+}
+.syinbt{
+	background: url(../img/shiyuanin.png);
+}
+.jninbt{
+	background: url(../img/jiaonangin.png);
+}
+.xyinbt{
+	background: url(../img/xinyuin.png);
+}
