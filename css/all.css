@@ -36,7 +36,15 @@
 	width: 100%;
 	height: 1500px;
 }
-.sybackbt , .jnbackbt , .xybackbt{
+.cybg{
+	background-image: url(../img/chuangyibg.png);
+	background-repeat: round;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	width: 100%;
+	height: 1500px;
+}
+.sybackbt , .jnbackbt , .xybackbt , .cybackbt{
 	width: 177px;
 	height: 69px;
 	margin: 86px 0px 0px 56px;
@@ -54,6 +62,9 @@
 }
 .xybackbt{
 	background: url(../img/xinyuback.png);
+}
+.cybackbt{
+	background: url(../img/chuangyiback.png);
 }
 .sytitle{
 	margin: 70px 0px 0px 370px;
@@ -82,9 +93,18 @@
 	width: 273px;
 	height: 65px;
 }
-.sytext , .jntext , .xytext{
+.cytitle{
+	margin: 70px 0px 0px 330px;
+	background: url(../img/chuangyititle.png);
+	background-repeat: round;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	width: 273px;
+	height: 65px;
+}
+.sytext , .jntext , .xytext , .cytext{
 	line-height: 60px;
-	font-weight: 60;
+	font-weight: 300;
 }
 .sytext{
 	width: 450px;
@@ -110,7 +130,15 @@
 	color: #060902;
 	margin: 160px 0px 182px 122px;
 }
-.syinbt , .jninbt , .xyinbt{
+.cytext{
+	width: 450px;
+	height: 450px;
+	font-family: "Microsoft YaHei";
+	font-size: 30px;
+	color: #060902;
+	margin: 160px 0px 182px 122px;
+}
+.syinbt , .jninbt , .xyinbt , .cyinbt{
 	background-repeat: round;
 	-webkit-background-size: 100%;
 	background-size: 100%;
@@ -124,10 +152,49 @@
 }
 .syinbt{
 	background: url(../img/shiyuanin.png);
+	margin-top: 120px;
 }
 .jninbt{
 	background: url(../img/jiaonangin.png);
 }
 .xyinbt{
 	background: url(../img/xinyuin.png);
+}
+.cyinbt{
+	background: url(../img/chuangyiin.png);
+}
+.introbg{
+	background-image: url(../img/introbg.png);
+	background-repeat: round;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	width: 100%;
+	height: 1500px;
+	padding-top: 27px;
+}
+.introtitle{
+	background: url(../img/introtitle.png);
+	background-repeat: round;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	width: 425px;
+	height: 414px;
+	margin: 0px 261px 98px 261px;
+}
+.bt{
+	text-align: center;
+	margin-bottom: 51px;
+}
+.introbt{
+	background: url(../img/introbt.png);
+	background-repeat: round;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	width: 332px;
+	height: 106px;
+	font-family: "YouYuan";
+	font-size: 50px;
+	color: #101010;
+	margin: auto;
+	border: none;
 }
